@@ -1,20 +1,12 @@
-# Relaxing Space
-Relaxing Space Project's code (Assets not included)
+# VR spaceship simulator - Relaxing space
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+## Introduction
 
-## Description
+[![Relaxing Space Game](https://img.youtube.com/vi/LO1SBc7-sTQ/0.jpg)](https://www.youtube.com/watch?v=LO1SBc7-sTQ)
 
-Relaxing space is a free experience compatible with the Oculus Quest 2. 
+Relaxing space is an experience compatible with Oculus Quest 2.
+The player drives the LXY-146 in a space flight simulator. Each component (thrusters, PIDs, engine…) is associated to a controller.
 
-It aims to guide the player through the space, inside the LXY-146.  
+## Credits
 
-In this adventure, the journey is more important than the destination.
-
-More info [here](https://victorportfolio.eu/portfolio/relaxing-space)
-
-[![Watch the video](https://images.squarespace-cdn.com/content/v1/6192c075ca1cf524b3d3834f/1638778890246-Q3D59GM0J8FK17VQ40XW/RS.png)](https://youtu.be/l6DB_zJL1ww)
-
-## Status
-
-Prototype
+- Creepy Cat: [3D Scifi Kit Vol 3](https://assetstore.unity.com/packages/3d/environments/sci-fi/3d-scifi-kit-vol-3-121447)
