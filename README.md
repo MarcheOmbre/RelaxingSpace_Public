@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![Relaxing Space Game](RelaxingSpave_VideoPict.png)](https://www.youtube.com/watch?v=LO1SBc7-sTQ)
+[![Relaxing Space Game](RelaxingSpace_VideoPict.png)](https://www.youtube.com/watch?v=LO1SBc7-sTQ)
 
 Relaxing space is an experience compatible with Oculus Quest 2.
 The player drives the LXY-146 in a space flight simulator. Each component (thrusters, PIDs, engine…) is associated to a controller.
